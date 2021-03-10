@@ -1,6 +1,6 @@
 rm -rf /opt/ANDRAX/bin/httpx
 
-cd httpx/cmd/httpx
+cd cmd/httpx
 
 go build
 
